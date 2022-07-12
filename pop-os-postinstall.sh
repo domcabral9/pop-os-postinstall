@@ -4,6 +4,7 @@
 #
 # Website:       https://diolinux.com.br
 # Autor:         Dionatan Simioni
+# Alterações:    André Cabral (Dom Cabral)
 #
 # ------------------------------------------------------------------------ #
 #
